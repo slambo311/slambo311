@@ -1,4 +1,4 @@
-Sketchfab account: https://sketchfab.com/im-an-idiot
+Sketchfab account: https://sketchfab.com/Mr-Snark
 
 I'm a tech geek. I'm experienced in the Source Engine, 3D modelling, coding, "tech support", and more.
 
