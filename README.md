@@ -1,6 +1,6 @@
 Sketchfab account: https://sketchfab.com/Mr-Snark
 
-I'm a tech geek. I'm somewhat experienced in the Source Engine. You want a bind? Just ask me by making an issue on one of my repositories, preferably on this readme repo or miscellaneous.
+I'm a tech geek. I'm somewhat experienced in the Source Engine. You want a bind? Just ask me by making an issue on one of my repositories, preferably on this [readme repo](https://github.com/slambo311/slambo311) or [miscellaneous](https://github.com/slambo311/miscellaneous).
 
 I have ADHD, so I sometimes have trouble focusing, and get distracted easily.
 
